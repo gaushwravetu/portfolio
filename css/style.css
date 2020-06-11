@@ -107,13 +107,9 @@ body{
 }
 .squareInnerContainer{
 	position: relative;
-		
 	padding: 50px 15px 35px;
-		
 	text-align: center;
-		
 	border: 2px solid #444;
-		
 	border-top: none;
 }
 .squareInnerContainer:before,
@@ -128,19 +124,19 @@ body{
 	right: 0px;
 }
 .squareInnerContainer:after{
-	left: 0px
+	left: 0px;
 }
-.squareContent h2{
-	font-size 56px
-	margin-bottom: 10px
+.squareContent h2 {
+	font-size: 56px;
+	margin-bottom: 10px;
 	font-weight: 400;
 	color: #e74c3c;
 }
 }
-.squareContent h3{
+.squareContent h3 {
 	font-size: 13px;
 	font-weight: 600;
-	margin: 0
+	margin: 0;
 }
 
 .squareIcon{
@@ -148,6 +144,7 @@ body{
     left: 50%;
     top: -30px;
     width: 40%;
+    height: 60px;
     font-size: 45px;
     margin-left: -20%;
     color: #88b912; 
@@ -159,7 +156,7 @@ body{
     padding: 15px 20px;
     margin-top: 20px;
     border: 1px solid #fff;
-    border-radius: 100px;
+    border-radius: 2px;
 }
 .contactButton:hover{
 	text-decoration: none;
@@ -224,7 +221,7 @@ body{
     text-align: center;
     z-index: 3;	
 }
-.items .icons i{
+.items .icons i {
     color: #fff;
     font-size: 20px;
     margin-top: 9px;
@@ -273,10 +270,6 @@ body{
 .items .projectLink {
 	float: right;
 	right: -200px;
-}
-.items .openButton {
-	float: left;
-	left: -200px;
 }
 
 .items .item:hover .openButton {
