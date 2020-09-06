@@ -68,6 +68,8 @@ body{
 }
 .aboutImage {
 	max-width: 100%;
+	border-top-left-radius: 25px;
+	border-bottom-right-radius: 25px;
 }
 
 .skillsSection,
@@ -156,7 +158,9 @@ body{
     padding: 15px 20px;
     margin-top: 20px;
     border: 1px solid #fff;
-    border-radius: 2px;
+	border-top-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+
 }
 .contactButton:hover{
 	text-decoration: none;
@@ -189,6 +193,7 @@ body{
 	text-align: center;
 	padding: 40px;
 	width: 100%;
+	
 }
 .items li{
 	display: inline-block;
@@ -210,6 +215,8 @@ body{
 	position: relative;
 	display: block;
 	overflow: hidden;
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
 }
 .items .icons{
     position: absolute;
