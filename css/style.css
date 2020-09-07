@@ -11,7 +11,7 @@ body{
 	line-height: 3.2;
 }
 .btn{
-	border: 2px solid #2ecc71;
+	border: 2px solid #e74c3c;
 	background: none;
 	padding: 6px 19px;
 	font-family: "montserrat";
@@ -23,7 +23,7 @@ body{
 	transition: 0.8s;
 }
 .bt1{
-	color: #2ecc71;
+	color: #e74c3c;
 }
 .bt1:hover{
 	color: #fff;
@@ -34,7 +34,7 @@ body{
 	left: 0;
 	width: 100%;
 	height: 0%;
-	background: #2ecc71;
+	background: #e74c3c;
 	z-index: -1;
 	transition: 0.8s;
 	top: 0;
