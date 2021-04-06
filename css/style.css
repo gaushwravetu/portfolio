@@ -201,6 +201,7 @@ body{
 	/* font-weight: bold; */
 
 }
+
 .contactButton:active{
 	background-color: rgb(10, 4, 19);
 }
@@ -210,10 +211,33 @@ body{
 	background-repeat: no-repeat;
 	background-position: center center;
 } */
-.contactButton:hover{
+/* .contactButton:hover{
 	text-decoration: none;
 	color: #e74c3c;
 	background-color: #fff;
+} */
+.contactButton.linkedin:hover{
+	text-decoration: none;
+	color: #e74c3c;
+	background-color: #1c82ca;
+}
+
+.contactButton.twitter:hover{
+	text-decoration: none;
+	color: #e74c3c;
+	background-color: #56d7fe;
+}
+
+.contactButton.github:hover{
+	text-decoration: none;
+	color: #e74c3c;
+	background-color: #2b2c2ced;
+}
+
+.contactButton.gmail:hover{
+	text-decoration: none;
+	color: #e74c3c;
+	background-color: #f3c0bc;
 }
 
 .filter a{
