@@ -26,7 +26,7 @@ $(document).ready(function(){
 	});
 
 	var typed = new Typed(".typed",{
-		strings: ["System Software Engineer @TCS Digital","Computer Science Graduate.","Full Stack Developer.","Beginner In The Field Of Data Science.","Python Programming Enthusiast."],
+		strings: ["Open To Work - SDE Roles","Computer Science Graduate.","Full Stack Developer.","Beginner In The Field Of Data Science.","Python Programming Enthusiast."],
 		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
