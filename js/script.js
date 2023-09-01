@@ -26,7 +26,7 @@ $(document).ready(function(){
 	});
 
 	var typed = new Typed(".typed",{
-		strings: ["Open To Work - SDE Roles","Computer Science Graduate.","Full Stack Developer.","Beginner In The Field Of Data Science.","Python Programming Enthusiast."],
+		strings: ["Software Development Engineer...","Computer Science Graduate...","Full Stack Developer...","Alfresco Developer...","Programming Enthusiast..."],
 		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
