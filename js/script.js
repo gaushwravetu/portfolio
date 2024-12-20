@@ -26,7 +26,7 @@ $(document).ready(function(){
 	});
 
 	var typed = new Typed(".typed",{
-		strings: ["Software Development Engineer...","Computer Science Graduate...","Full Stack Developer...","Alfresco Developer...","Programming Enthusiast..."],
+		strings: ["Data Engineer...","Computer Science Graduate...","Programming Enthusiast..."],
 		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
